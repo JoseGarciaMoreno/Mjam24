@@ -20,13 +20,17 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Mjam24"
+config/name="Ferdi"
 run/main_scene="res://escenarios/mundo.tscn"
 config/icon="res://icon.png"
 
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
 
 [physics]
 
