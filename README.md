@@ -2,6 +2,9 @@
 
 https://itch.io/jam/mjam24
 
+
+asset Chata
+
 # Godot controles 3d chatarreros + Virtual Joystick
 
 https://github.com/Chatarra-Estudio/Virtual-Joytick-3d/tree/410fe7dacc4edfcd5f04007bf1ab0a961b79f34a
