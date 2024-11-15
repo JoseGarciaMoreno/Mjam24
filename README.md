@@ -4,6 +4,8 @@ https://itch.io/jam/mjam24
 
 # Godot controles 3d chatarreros + Virtual Joystick
 
+https://github.com/Chatarra-Estudio/Virtual-Joytick-3d/tree/410fe7dacc4edfcd5f04007bf1ab0a961b79f34a
+
 Aquí unos controles chatarreros de kinemático 3d con suelo plano para exportar en html.
 
 Revisión controles submarino modelos
@@ -16,12 +18,6 @@ https://github.com/Chatarra-Estudio/Virtual-Joytick-3d/tree/410fe7dacc4edfcd5f04
 
 ---------------------------------------------------------------------------------------------------------
 
-
-Versión de Rally + modelos
-
-https://github.com/Chatarra-Estudio/Virtual-Joytick-3d/tree/00175acb1d1af539296e8ef6d70b24701a7864c3
-
----------------------------------------------------------------------------------------------------------
 Asset controles flotantes con Joystick
 
 Plantilla imágenes
