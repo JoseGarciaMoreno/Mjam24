@@ -2,6 +2,8 @@
 
 https://itch.io/jam/mjam24
 
+<img src="https://img.itch.zone/aW1nLzE4MjY1NzgwLmpwZw==/original/jr9ASy.jpg">
+
 
 asset Chata
 
